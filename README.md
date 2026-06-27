@@ -208,4 +208,4 @@ This project is developed for educational and internship purposes.
 
 
 
-Live Link:   https://smart-recruitment-assistant-so3k.onrender.com
+Live Link:  https://smart-recruitment-assistant-1.onrender.com/
